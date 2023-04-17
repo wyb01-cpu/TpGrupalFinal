@@ -1,0 +1,405 @@
+/*GLOBAL*/
+footer {
+    background-color: #444444;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.marginFooter {
+    margin-top: 50px;
+}
+
+.rowFooter {
+    margin-top: 10px;
+    height: 50px;
+}
+
+.sizeBtn {
+    width: 30%;
+}
+
+
+
+.marginBtn {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+.marginTitleForm {
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 25px 0px;
+    padding: 5px 0px;
+}
+
+
+
+
+.margenTitulo {
+    margin: 20px 0px;
+    padding-top: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.btnFormPosition {
+    position: absolute;
+    bottom: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+p {
+    overflow: hidden;
+}
+
+body {
+    background-color: #ededed;
+}
+
+.iconConfirm {
+    color: #5083ad;
+    font-size: 65px;
+}
+
+.iconRegistro {
+    color: #52cbbb;
+    font-size: 65px;
+}
+
+
+.iconConfirmForm {
+    color: #5083ad;
+    font-size: 85px;
+}
+
+.iconRegistroForm {
+    color: #52cbbb;
+    font-size: 85px;
+}
+
+.colorConfirmacion {
+    color: #ffffff;
+    background-color: #69a6d1;
+    border-radius: 10px;
+}
+
+
+.colorRegistro {
+    color: #ffffff;
+    background-color: #52cbbb;
+    border-radius: 10px;
+}
+
+
+
+
+/*HOME*/
+.aside {
+    background-color: #ffff;
+    min-width: 230px;
+}
+
+.main {
+    background-color: #ffff;
+    padding-bottom: 60px;
+}
+
+.aside .accordion {
+    margin: 30px 0px;
+}
+
+.main .card {
+    margin: 30px 0px;
+    box-shadow: 0px 4px 7px 3px #8f8f8f;
+    /*Orden: eje X / eje Y / tamanio del desenfoque / borde de la sombra / color.*/
+}
+
+.formInscripcion {
+    border: 1px solid #888888;
+    border-radius: 30px;
+    background-color: #e5ebf1;
+
+}
+
+.containerInscripcion {
+
+    padding: 0px;
+}
+
+.modal-body-inscripcion {
+    border-radius: 30px;
+}
+
+.tituloModalInscripcion {
+    margin: 30px 0px;
+}
+
+.inputInscripcion {
+    margin: 18px 0px;
+
+}
+
+.formInscripcion .row {
+    margin: 0px 10px;
+}
+
+
+.accordion {
+    box-shadow: 0px 4px 7px 3px #6b6b6b;
+}
+
+
+
+
+
+
+
+/*IMAGEN LOGO*/
+.titleLogo {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 45px;
+    display: inline;
+    background: linear-gradient(90deg, #311fff 0%, #1af4ff 100%);
+    -webkit-text-fill-color: transparent;
+    /* hace que el color de las letras sea transparente*/
+    -webkit-background-clip: text;
+    /*hace que el fondo se extiende solo en el espacio de las letras*/
+}
+
+.subTitleLogo1 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.subTitleLogo2 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 500;
+
+}
+
+.grupIcon div {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500px;
+    display: flex;
+    align-items: start;
+}
+
+.iconLogo {
+    color: #0ad3c0;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+
+
+
+.bi-check2 {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+
+
+
+.backLogo {
+    background: linear-gradient(to right, #c4e9f8 0%, #f6fbfe 45%, #f6fbfe 55%, #a9e0ef 100%)
+}
+
+
+.imgLogo {
+    height: 280px;
+}
+
+
+
+
+
+input:invalid {
+    border: 2px solid #ff7a7a;
+}
+
+.form-control:valid {
+    border: 2px solid #7bfd7b;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.cursoSelect {
+    color: #4e4e4e;
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.cursoSelect:hover {
+    color: #0ad3c0;
+}
+
+.accordion-body {
+    padding-bottom: 0px;
+    padding-bottom: 16px;
+
+}
+
+ul {
+    margin-bottom: 0px;
+}
+
+
+
+
+
+/*PRESENTACION*/
+.tituloPresentacion {
+    font-family: 'Montserrat Alternates', sans-serif;
+    padding-top: 40px;
+}
+
+.cardContacto {
+    min-width: 380px;
+    margin: 40px 30px;
+}
+
+.imgContacto {
+    width: 100%;
+}
+
+.cardContacto .card {
+    box-shadow: 0px 5px 10px 1px #6b6b6b;
+    /*Orden: eje X / eje Y / tamanio del desenfoque / borde de la sombra / color.*/
+}
+
+
+
+
+.cardNosotros:hover {
+    box-shadow: 0px 5px 8px 8px #a2ebe5;
+    border: 1px solid #8bebe3;
+
+}
+
+
+
+
+
+
+
+
+/*RECLAMO*/
+.inputReclamo {
+    margin-top: 10px;
+}
+
+
+
+.formReclamo {
+    border: 1px solid #888888;
+    border-radius: 30px;
+    margin-bottom: 80px;
+    background-color: #cccccc;
+    padding: 0px 20px;
+    height: 700px;
+    position: relative;
+}
+
+
+
+.containerReclamo {
+    margin-top: 40px;
+    max-width: 720px;
+}
+
+
+.confirmacionReclamo,
+.mensajeReclamo {
+    display: none;
+
+}
+
+.textReclamo {
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+/*CONTACTO*/
+.inputContacto {
+    margin-top: 18px;
+}
+
+.formContacto {
+    border: 1px solid #888888;
+    border-radius: 30px;
+    margin-bottom: 80px;
+    background-color: #cccccc;
+    padding: 0px 20px;
+    height: 550px;
+    position: relative;
+}
+
+.containerContacto {
+    max-width: 720px;
+}
+
+
+.confirmacionMensaje,
+.mensajeComplet {
+    display: none;
+
+}
+
+.textContacto {
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+
+
+.infoContacto {
+    margin-bottom: 20px;
+}
+
+
+
+.contact-info {
+    background: #dae8f2;/*
+    background-image: url(https://i.imgur.com/shty3uD.jpeg);*/
+    background-repeat: none;
+    background-size: auto;
+    background-position: center;
+    font-family: 'arial black';
+    font-weight: 400;
+    margin: auto;
+    border: 1px solid #cecece;
+
+}
+
+.textMasInfo {
+    color: #010129;
+    margin: 13px 0px;
+}
+
+.iconSocial {
+    font-size: 33px;
+    margin: 10px;
+    color: #ffffff;
+}
+
+.titleRedSocial {
+    margin: 20px 0px;
+}
+
+
