@@ -331,11 +331,6 @@ ul {
 }
 
 
-
-
-
-
-
 /*CONTACTO*/
 .inputContacto {
     margin-top: 18px;
@@ -375,8 +370,7 @@ ul {
 
 
 .contact-info {
-    background: #dae8f2;/*
-    background-image: url(https://i.imgur.com/shty3uD.jpeg);*/
+    background: #dae8f2;
     background-repeat: none;
     background-size: auto;
     background-position: center;
